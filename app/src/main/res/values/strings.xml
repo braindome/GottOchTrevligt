@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GottOchTrevligt</string>
+    <string name="report_good">Trygghetsbesök utförda utan anmärkningar.</string>
+
+
+    <string-array name="places_array">
+        <item>@string/report_good</item>
+        <item>Apoteket:</item>
+        <item>Närakuten:</item>
+        <item>Mava:</item>
+        <item>CK-akuten:</item>
+        <item>BK-akuten:</item>
+        <item>Transfusion:</item>
+        <item>Plam 8:</item>
+        <item>Frysen:</item>
+    </string-array>
+</resources>
